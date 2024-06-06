@@ -15,7 +15,6 @@ I'm a passionate front-end developer with a keen interest in creating engaging a
 ### Let's Connect
 
 - 📧 **Email**: [mesafwan07@gmail.com](mailto:mesafwan07@gmail.com)
-- 💼 **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
 - 🐦 **Twitter**: [@webdev_ms](https://x.com/webdev_ms?t=kXI1tAafWn31Eor-mGRQRg&s=09)
 - 📷 **Instagram**: [@webdev_ms](https://www.instagram.com/webdev_ms?igsh=YTQwZjQ0NmI0OA==)
 - 📌 **Pinterest**: [webdevbyms](https://www.pinterest.com/webdevbyms/)
